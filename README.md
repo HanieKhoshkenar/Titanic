@@ -1,6 +1,4 @@
-Based on the Titanic dataset project, here's a README draft you can use for your GitHub repository:
 
----
 
 # Titanic Survival Prediction
 
