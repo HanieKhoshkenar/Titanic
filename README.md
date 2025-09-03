@@ -70,10 +70,4 @@ The dataset is read from a CSV file named `Titanic-Dataset.csv`.
 
 4. Run the cells step-by-step to perform the analysis and predictions.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to update the repository URL and customize other details as per your needs! Let me know if you need further adjustments.
